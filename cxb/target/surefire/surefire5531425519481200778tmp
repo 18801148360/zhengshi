@@ -1,0 +1,26 @@
+#surefire
+#Thu Feb 25 18:31:03 CST 2016
+testClassesDirectory=D\:\\workspace\\cxb\\target\\test-classes
+useManifestOnlyJar=true
+classPathUrl.1=D\:\\workspace\\cxb\\target\\classes
+reportsDirectory=D\:\\workspace\\cxb\\target\\surefire-reports
+classPathUrl.0=D\:\\workspace\\cxb\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=D\:\\workspace\\cxb\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\CWB_PC\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\CWB_PC\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+excludes0=**/*$*
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+isTrimStackTrace=true
+dirscanner.0.params=D\:\\workspace\\cxb\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+includes0=**/Test*.java
+childDelegation=false
